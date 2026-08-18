@@ -166,19 +166,29 @@ plt.show()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 <img width="298" height="408" alt="image" src="https://github.com/user-attachments/assets/fb7b658a-99dc-4daa-bf9c-257ba2abf35b" />
 
-
 ii)Using Weighted Averaging Filter
+
 <img width="293" height="406" alt="image" src="https://github.com/user-attachments/assets/9465f619-3ec8-454d-a81d-839c42711c2d" />
 
 
+
+
 iii)Using Gaussian Filter
+
+
 <img width="283" height="416" alt="image" src="https://github.com/user-attachments/assets/acc300a2-f8c4-4d49-9638-1b182eb3409f" />
 
 
+
 iv) Using Median Filter
+
+
+
 <img width="304" height="423" alt="image" src="https://github.com/user-attachments/assets/d16fce38-dee3-48af-b475-02ff016a1866" />
+
 
 
 ### 2. Sharpening Filters
